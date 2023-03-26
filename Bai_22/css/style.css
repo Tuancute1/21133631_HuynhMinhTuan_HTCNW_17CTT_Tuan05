@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px auto;
+}
+.wrapper{
+    width: auto;
+    height: auto;
+    position: relative;
+}
+header{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    background-color: slategray;
+    color: white;
+}
+.h1{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+section{
+    position: absolute;
+    top: 150px;
+    width: 30%;
+    height: 1000px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgb(160, 159, 159);
+}
+.s1{
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 30px;
+}
+.s2{
+    position: absolute;
+    top: 55px;
+    left: 30px;
+}
+nav{
+    position: absolute;
+    top: 150px;
+    width: 70%;
+    right: 0px;
+    height: 1000px;
+    bottom: 0px;
+}
+.n1{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.n2{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    width: 500px;
+}
+.n2 img{
+    width: 100px;
+    float: left;
+    margin-right: 12px;
+}
+.n3{
+    position: absolute;
+    width: 500px;
+    top: 170px;
+    left: 140px;
+}
+.n4{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    list-style: circle;
+}
+.n5{
+    position: absolute;
+    top: 350px;
+    left: 40px;
+    width: 500px;
+}
